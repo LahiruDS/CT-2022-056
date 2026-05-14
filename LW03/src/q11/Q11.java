@@ -1,3 +1,5 @@
+package q11;
+
 import java.util.Scanner;
 import java.util.Random;
 
